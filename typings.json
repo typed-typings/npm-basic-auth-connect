@@ -1,0 +1,5 @@
+{
+  "name": "basic-auth-connect",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/expressjs/basic-auth-connect"
+}
